@@ -1,6 +1,6 @@
 # NLP-NISA-AGNI-A
 Berisi tentang Tugas, UAS dan UTS mata kuliah Pemrosesan Teks dan Suara atau NATURAL LANGUAGE PROCESSING (NLP)
-# Detail TUGAS ATAU PR
+# Detail Tugas atau PR
 1. PR1 - Mencari satu pidato kenegaraan Presiden Indonesia (bebas tahun berapa) dan buat plot untuk 20 kata yang paling sering muncul. Buat analisis singkat (minimal 1 paragraph). Mencari satu link (web) pidato kenegaraan Presiden Amerika (bebas tahun berapa) dan buat plot untuk 20 kata yang paling sering muncul. Buat analisis singkat (minimal 1 paragraph). Gunakan kodingan bahasa Inggris.
 2. PR2 - Vader Sentimen analyisis untuk file imdb_labelled.txt. Buatlah plot histogram untuk distribusi compound score. Sumbu-x nya adalah compound score dan sumbu y nya adalah N atau jumlah.
 3. PR3 - Mencoba codingan ini: https://github.com/zulkaidaakbar/NLP_STTCipasung2023/blob/main/5-Oktober/VaccineTweet2023version2.ipynb
